@@ -10,7 +10,9 @@
       "Read(//tmp/samcad_decompile/**)",
       "Bash(xargs grep *)",
       "Bash(dotnet --version)",
-      "Bash(dotnet --list-sdks)"
+      "Bash(dotnet --list-sdks)",
+      "Bash(Get-ChildItem -Path . -Recurse -MaxDepth 2 -Name)",
+      "Bash(Select-Object -First 30)"
     ]
   }
 }
