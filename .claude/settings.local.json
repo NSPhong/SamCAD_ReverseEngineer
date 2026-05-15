@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(dotnet tool install *)",
+      "PowerShell(ilspycmd *)",
+      "PowerShell(python \"D:\\\\Work App\\\\PLC low level\\\\SamCAD\\\\SamCAD\\\\SamCAD\\\\translate_chinese.py\" 2>&1 | Select-Object -First 30)",
+      "Bash(python *)",
+      "Bash(pkill -f translate_chinese.py)",
+      "Bash(dotnet build *)",
+      "Read(//tmp/samcad_decompile/**)",
+      "Bash(xargs grep *)",
+      "Bash(dotnet --version)",
+      "Bash(dotnet --list-sdks)"
+    ]
+  }
+}

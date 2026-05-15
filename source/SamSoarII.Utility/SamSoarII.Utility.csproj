@@ -1,0 +1,91 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>SamSoarII.Utility</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWPF>True</UseWPF>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net40</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="controls\utils\floattextbox.baml" />
+    <None Remove="controls\utils\rangetextbox.baml" />
+    <None Remove="controls\customitembox.baml" />
+    <None Remove="resources\image\dialog\wndb.png" />
+    <None Remove="controls\gridpenning\gridpenninghorizontalscroll.baml" />
+    <None Remove="resources\image\dialog\wndl.png" />
+    <None Remove="resources\image\dialog\wndr.png" />
+    <None Remove="resources\image\dialog\wndt.png" />
+    <None Remove="controls\gridpenning\gridpenningpanel.baml" />
+    <None Remove="controls\gridpenning\gridpenning.baml" />
+    <None Remove="controls\gridpenning\gridpenningverticalscroll.baml" />
+    <None Remove="resources\resourcedictionary\themes.baml" />
+    <None Remove="controls\dialogs\replacereportwindow.baml" />
+    <None Remove="controls\dialogs\csvimportdialog.baml" />
+    <None Remove="resources\image\dialog\caltl.png" />
+    <None Remove="resources\image\dialog\caltr.png" />
+    <None Remove="resources\image\dialog\calbr.png" />
+    <None Remove="resources\image\dialog\calbl.png" />
+    <None Remove="resources\image\dialog\wndbl.png" />
+    <None Remove="resources\image\dialog\wndbr.png" />
+    <None Remove="controls\dialogs\csvexportdialog.baml" />
+    <None Remove="controls\gridpenning\gridpenninghint.baml" />
+    <None Remove="resources\image\dialog\btnclose.png" />
+    <None Remove="resources\image\dialog\wndtr.png" />
+    <None Remove="resources\image\dialog\wndtl.png" />
+    <None Remove="resources\image\dialog\btnclosemo.png" />
+    <None Remove="controls\utils\capslocktooltip.baml" />
+    <None Remove="resources\image\dialog\btnclosemd.png" />
+    <None Remove="resources\image\dialog\calr.png" />
+    <None Remove="resources\image\dialog\calt.png" />
+    <None Remove="resources\image\dialog\calb.png" />
+    <None Remove="resources\image\dialog\call.png" />
+    <Resource Include="controls\utils\floattextbox.baml" LogicalName="controls/utils/floattextbox.baml" />
+    <Resource Include="controls\utils\rangetextbox.baml" LogicalName="controls/utils/rangetextbox.baml" />
+    <Resource Include="controls\customitembox.baml" LogicalName="controls/customitembox.baml" />
+    <Resource Include="resources\image\dialog\wndb.png" />
+    <Resource Include="controls\gridpenning\gridpenninghorizontalscroll.baml" LogicalName="controls/gridpenning/gridpenninghorizontalscroll.baml" />
+    <Resource Include="resources\image\dialog\wndl.png" />
+    <Resource Include="resources\image\dialog\wndr.png" />
+    <Resource Include="resources\image\dialog\wndt.png" />
+    <Resource Include="controls\gridpenning\gridpenningpanel.baml" LogicalName="controls/gridpenning/gridpenningpanel.baml" />
+    <Resource Include="controls\gridpenning\gridpenning.baml" LogicalName="controls/gridpenning/gridpenning.baml" />
+    <Resource Include="controls\gridpenning\gridpenningverticalscroll.baml" LogicalName="controls/gridpenning/gridpenningverticalscroll.baml" />
+    <Resource Include="resources\resourcedictionary\themes.baml" LogicalName="resources/resourcedictionary/themes.baml" />
+    <Resource Include="controls\dialogs\replacereportwindow.baml" LogicalName="controls/dialogs/replacereportwindow.baml" />
+    <Resource Include="controls\dialogs\csvimportdialog.baml" LogicalName="controls/dialogs/csvimportdialog.baml" />
+    <Resource Include="resources\image\dialog\caltl.png" />
+    <Resource Include="resources\image\dialog\caltr.png" />
+    <Resource Include="resources\image\dialog\calbr.png" />
+    <Resource Include="resources\image\dialog\calbl.png" />
+    <Resource Include="resources\image\dialog\wndbl.png" />
+    <Resource Include="resources\image\dialog\wndbr.png" />
+    <Resource Include="controls\dialogs\csvexportdialog.baml" LogicalName="controls/dialogs/csvexportdialog.baml" />
+    <Resource Include="controls\gridpenning\gridpenninghint.baml" LogicalName="controls/gridpenning/gridpenninghint.baml" />
+    <Resource Include="resources\image\dialog\btnclose.png" />
+    <Resource Include="resources\image\dialog\wndtr.png" />
+    <Resource Include="resources\image\dialog\wndtl.png" />
+    <Resource Include="resources\image\dialog\btnclosemo.png" />
+    <Resource Include="controls\utils\capslocktooltip.baml" LogicalName="controls/utils/capslocktooltip.baml" />
+    <Resource Include="resources\image\dialog\btnclosemd.png" />
+    <Resource Include="resources\image\dialog\calr.png" />
+    <Resource Include="resources\image\dialog\calt.png" />
+    <Resource Include="resources\image\dialog\calb.png" />
+    <Resource Include="resources\image\dialog\call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <ProjectReference Include="..\SamSoarII.Dock\SamSoarII.Dock.csproj" />
+  </ItemGroup>
+</Project>

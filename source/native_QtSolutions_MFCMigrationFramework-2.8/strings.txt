@@ -1,0 +1,744 @@
+﻿!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.bss
+.edata
+0@.idata
+.reloc
+  -h
+hi,h
+`i,h
+,[^_
+hD-h
+,[^_
+D-h1
+XD-h
+ti~'
+TD-h
+dD-h
+E-h9
+5hD-h
+5hD-h
+X -h
+X -h
+=H -h
+H -h
+H -h
+H -h
+H -h
+@ -h
+@ -h
+$D-h
+$D-h
+@ -h
+@ -h
+$D-h
+$D-h
+@ -h
+@ -h
+$D-h
+$D-h
+H%,h
+@ -h
+ D-h
+X -h
+@ -h
+LD-h
+PD-h
+LD-h
+PD-h
+%$F-h
+% F-h
+%,F-h
+%(F-h
+%4F-h
+%0F-h
+%<F-h
+%8F-h
+%TD-h
+%<D-h
+%@D-h
+%xD-h
+%tD-h
+%,D-h
+%4D-h
+%8D-h
+%(D-h
+%`D-h
+%DD-h
+%lD-h
+%HD-h
+%\D-h
+%pD-h
+%|D-h
+%0D-h
+%,E-h
+% E-h
+%$E-h
+%0E-h
+%(E-h
+nt21
+<	w9
+<rt<<VtL<Ku*
+Z[^_
+Y[^_
+;X s
+Y[^_
+	w0f
+X0;H
+[[^_
+9$tg
+[[^_
+<ft0
+,[^_
+,[^_
+,[^_
+,[^_
+,[^_
+<rt(<Vt$<Kt 
+<[^_
+S ;S$}
+S ;S$
+0B<	v
+C ;C$
+tC<Et?
+<[^_
+<[^_
+0<	w?
+tR:M
+<[^_
+<[^_
+<CtH<D
+8_t_
+<1tu<2ti<0
+,[^_
+Zu%B
+,[^_
+,[^_
+,[^_
+,[^_
+~2<Stn<Zu.B
+<[^_
+<Lt(
+C ;C$}
+<[^_
+tt>1
+K ;K$
+<[^_
+8_t$
+t;<Et7
+<[^_
+<[^_
+8Eu#@
+,[^_
+,[^_
+,[^_
+,[^_
+,[^_
+,htT
+,[^_
+C	<Dt
+<[^_
+t[[^
+,[^_
+,[^_
+,[^_
+,[^_
+,hKu
+h -h
+h -h
+%tF-h
+%|F-h
+%dF-h
+%\F-h
+%LF-h
+%XF-h
+%TF-h
+%PF-h
+%lF-h
+%pF-h
+%xF-h
+%hF-h
+%`F-h
+%HF-h
+%PE-h
+%TE-h
+%DE-h
+%LE-h
+%`E-h
+%dE-h
+%XE-h
+%@E-h
+%<E-h
+%|E-h
+%xE-h
+%hE-h
+%tE-h
+%pE-h
+%HE-h
+%\E-h
+%lE-h
+,[^_
+,[^_
+ t6~
+(u,h
+,[^_
+,[^_
+,[^_
+}$;] t-
+,[^_
+,[^_
+<[^_
+<[^_
+,[^_
+,[^_
+L[^_
+L[^_
+L[^_
+L[^_
+M 9M
+|[^_
+|[^_
+L[^_
+L[^_
+(u,h
+<[^_
+(u,h
+(u,h
+(u,h
+@DCUNG
+@HLq,h
+|[^_
+|[^_
+|[^_
+%,hh&,h
+@u,h
+libgcc_s_dw2-1.dll
+__register_frame_info
+libgcj_s.dll
+_Jv_RegisterClasses
+__deregister_frame_info
+QWinWidget::center: Call this function only for QWinWidgets with toplevel children
+%,hQWinWidget
+D&,hQWinHost
+q,hDr,h|r,h
+r,hpr,h
+q,hstd::exception
+std::bad_exception
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+std::bad_alloc
+pure virtual method called
+terminate called recursively
+terminate called after throwing an instance of '
+  what():  
+terminate called without an active exception
+-,h_GLOBAL_
+(anonymous namespace)
+2,hP5,h
+2,h 3,h
+5,hL3,h
+2,h 5,h
+2,ht3,h
+3,h@4,h
+2,hI7,h
+6,h'8,h
+2,hD6,hI7,hstring literal
+kD,h
+C,hHD,h
+C,htE,h
+C,h*E,h
+D,h$D,h<D,h<D,h$D,h$D,h$D,h$D,h
+C,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h$D,h
+C,h (
+4O,h4O,h4O,hxN,hxN,hxN,h4O,h
+N,h4O,h4O,hxN,hxN,hxN,hxN,h4O,hJArray
+vtable for 
+VTT for 
+construction vtable for 
+-in-
+typeinfo for 
+typeinfo name for 
+typeinfo fn for 
+non-virtual thunk to 
+virtual thunk to 
+covariant return thunk to 
+java Class for 
+guard variable for 
+reference temporary for 
+hidden alias for 
+_Sat 
+_Accum
+_Fract
+operator
+operator 
+false
+true
+java resource 
+decltype (
+parm#
+6T,h
+T,h9V,h
+Q,h#\,h
+W,hSW,h]W,hgW,hqW,h
+Q,h4R,h;R,hBR,hLR,haR,haR,haR,h$[,h$[,h$[,h$[,h$[,h$[,h$[,h$[,h$[,h
+S,ho[,h
+X,h	Y,h
+Z,h{W,h
+^,hglobal destructors keyed to 
+global constructors keyed to 
+ restrict
+ volatile
+ const
+complex 
+imaginary 
+d,h e,hsigned char
+bool
+boolean
+char
+byte
+double
+long double
+float
+__float128
+unsigned char
+unsigned int
+unsigned
+long
+unsigned long
+__int128
+unsigned __int128
+short
+unsigned short
+void
+wchar_t
+long long
+unsigned long long
+decimal32
+decimal64
+decimal128
+half
+char16_t
+char32_t
+std::allocator
+allocator
+std::basic_string
+basic_string
+std::string
+std::basic_string<char, std::char_traits<char>, std::allocator<char> >
+std::istream
+std::basic_istream<char, std::char_traits<char> >
+basic_istream
+std::ostream
+std::basic_ostream<char, std::char_traits<char> >
+basic_ostream
+std::iostream
+std::basic_iostream<char, std::char_traits<char> >
+basic_iostream
+delete[]
+delete
+new[]
+sizeof 
+alignof 
+	-h4
+-h@	-h
+	-h10QWinWidget
+12QApplication
+12QPaintDevice
+16QCoreApplication
+7QMfcApp
+7QObject
+7QWidget
+8QWinHost
+N10__cxxabiv115__forced_unwindE
+N10__cxxabiv117__class_type_infoE
+N10__cxxabiv119__foreign_exceptionE
+N10__cxxabiv120__si_class_type_infoE
+N10__cxxabiv121__vmi_class_type_infoE
+N9__gnu_cxx24__concurrence_lock_errorE
+N9__gnu_cxx26__concurrence_unlock_errorE
+St13bad_exception
+St9bad_alloc
+St9exception
+St9type_info
+,hT),h
+,h\),hd),hl),h
+(,h$(,h,(,h4(,h<(,hD(,hL(,hT(,hh
+,h\(,hd(,hl(,ht(,h|(,h
+(,hP
+(,hL
+),h$),h,),h4),h<),h
+',hp#,h
+',hD),hT),hL),h\),hd),hl),h
+-hL&,h
+&,hx&,hD
+,hT ,h
+,hD),hT),hL),h\),hd),hl),h
+(,h$(,h,(,h4(,h<(,hD(,hL(,hT(,h
+,h\(,hd(,hl(,ht(,h|(,h
+(,h0
+(,hP
+),h,
+,hL ,h
+),h$),h,),h4),h<),h
+r,hh
+-h4s,h
+w,hPw,h
+w,hTx,h
+-h|s,hds,hh
+w,hlx,h
+z,h(|,h
+-h(u,h
+T ,h~
+h!,h
+",h\
+p#,hQ
+#,hQ
+$,hX
+p$,h
+H%,hs
+Xo,hV
+p,h^
+xp,hr
+lx,h]
+y,he
+s,h%
+(|,h
+s,h%
+w,he
+Pw,h;
+w,h_
+v,h^
+s,h%
+Lq,hK
+n,h"
+`t,h`
+@u,h
+i,h[
+Dj,hK
+j,hL
+j,h}
+\k,hM
+k,hM
+k,h?
+<l,h
+Tl,h*
+l,h.
+l,h"
+l,h0
+m,hl
+QtSolutions_MFCMigrationFramework-2.8.dll
+_ZN10QWinWidget10childEventEP11QChildEvent
+_ZN10QWinWidget10resetFocusEv
+_ZN10QWinWidget11eventFilterEP7QObjectP6QEvent
+_ZN10QWinWidget11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN10QWinWidget11qt_metacastEPKc
+_ZN10QWinWidget12focusInEventEP11QFocusEvent
+_ZN10QWinWidget12showCenteredEv
+_ZN10QWinWidget16staticMetaObjectE
+_ZN10QWinWidget18focusNextPrevChildEb
+_ZN10QWinWidget18qt_static_metacallEP7QObjectN11QMetaObject4CallEiPPv
+_ZN10QWinWidget25staticMetaObjectExtraDataE
+_ZN10QWinWidget4initEv
+_ZN10QWinWidget4showEv
+_ZN10QWinWidget6centerEv
+_ZN10QWinWidget8winEventEP6tagMSGPl
+_ZN10QWinWidget9saveFocusEv
+_ZN10QWinWidgetC1EP6HWND__P7QObject6QFlagsIN2Qt10WindowTypeEE
+_ZN10QWinWidgetC2EP6HWND__P7QObject6QFlagsIN2Qt10WindowTypeEE
+_ZN10QWinWidgetD0Ev
+_ZN10QWinWidgetD1Ev
+_ZN10QWinWidgetD2Ev
+_ZN7QMfcApp13exitModalLoopEv
+_ZN7QMfcApp14enterModalLoopEv
+_ZN7QMfcApp14pluginInstanceEPv
+_ZN7QMfcApp14winEventFilterEP6tagMSGPl
+_ZN7QMfcAppD0Ev
+_ZN7QMfcAppD1Ev
+_ZN7QMfcAppD2Ev
+_ZN8QWinHost11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN8QWinHost11qt_metacastEPKc
+_ZN8QWinHost11resizeEventEP12QResizeEvent
+_ZN8QWinHost12createWindowEP6HWND__P11HINSTANCE__
+_ZN8QWinHost12focusInEventEP11QFocusEvent
+_ZN8QWinHost16staticMetaObjectE
+_ZN8QWinHost18qt_static_metacallEP7QObjectN11QMetaObject4CallEiPPv
+_ZN8QWinHost25staticMetaObjectExtraDataE
+_ZN8QWinHost5eventEP6QEvent
+_ZN8QWinHost8winEventEP6tagMSGPl
+_ZN8QWinHost9fixParentEv
+_ZN8QWinHost9setWindowEP6HWND__
+_ZN8QWinHost9showEventEP10QShowEvent
+_ZN8QWinHostC1EP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN8QWinHostC2EP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN8QWinHostD0Ev
+_ZN8QWinHostD1Ev
+_ZN8QWinHostD2Ev
+_ZNK10QWinWidget10metaObjectEv
+_ZNK10QWinWidget12parentWindowEv
+_ZNK8QWinHost10metaObjectEv
+_ZNK8QWinHost6windowEv
+_ZTV10QWinWidget
+_ZTV7QMfcApp
+_ZTV8QWinHost
+_ZThn8_N10QWinWidgetD0Ev
+_ZThn8_N10QWinWidgetD1Ev
+_ZThn8_N8QWinHostD0Ev
+_ZThn8_N8QWinHostD1Ev
+_Z11qWinAppInstv
+_Z20qt_qFindChild_helperPK7QObjectRK7QStringRK11QMetaObject
+_Z8qWarningPKcz
+_ZN16QCoreApplication14notifyInternalEP7QObjectP6QEvent
+_ZN16QCoreApplication14winEventFilterEP6tagMSGPl
+_ZN16QCoreApplication16sendPostedEventsEP7QObjecti
+_ZN16QCoreApplication4selfE
+_ZN6QEventC1ENS_4TypeE
+_ZN6QEventD1Ev
+_ZN7QObject10childEventEP11QChildEvent
+_ZN7QObject10timerEventEP11QTimerEvent
+_ZN7QObject11customEventEP6QEvent
+_ZN7QObject11deleteLaterEv
+_ZN7QObject11eventFilterEPS_P6QEvent
+_ZN7QObject13connectNotifyEPKc
+_ZN7QObject16disconnectNotifyEPKc
+_ZN7QObject17removeEventFilterEPS_
+_ZN7QObject18installEventFilterEPS_
+_ZN7QObject9setParentEPS_
+_ZN7QString11shared_nullE
+_ZN7QString4freeEPNS_4DataE
+_ZNK11QMetaObject4castEP7QObject
+_ZN11QFocusEvent6reasonEv
+_ZN11QFocusEventC1EN6QEvent4TypeEN2Qt11FocusReasonE
+_ZN11QFocusEventD1Ev
+_ZN12QApplication10commitDataER15QSessionManager
+_ZN12QApplication11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN12QApplication11qt_metacastEPKc
+_ZN12QApplication13compressEventEP6QEventP7QObjectP14QPostEventList
+_ZN12QApplication5eventEP6QEvent
+_ZN12QApplication6notifyEP7QObjectP6QEvent
+_ZN12QApplication9saveStateER15QSessionManager
+_ZN12QApplicationC1ERiPPci
+_ZN12QApplicationD2Ev
+_ZN7QWidget10closeEventEP11QCloseEvent
+_ZN7QWidget10enterEventEP6QEvent
+_ZN7QWidget10fontChangeERK5QFont
+_ZN7QWidget10leaveEventEP6QEvent
+_ZN7QWidget10paintEventEP11QPaintEvent
+_ZN7QWidget10setVisibleEb
+_ZN7QWidget10wheelEventEP11QWheelEvent
+_ZN7QWidget11actionEventEP12QActionEvent
+_ZN7QWidget11changeEventEP6QEvent
+_ZN7QWidget11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN7QWidget11qt_metacastEPKc
+_ZN7QWidget11resizeEventEP12QResizeEvent
+_ZN7QWidget11setGeometryERK5QRect
+_ZN7QWidget11styleChangeER6QStyle
+_ZN7QWidget11tabletEventEP12QTabletEvent
+_ZN7QWidget12focusInEventEP11QFocusEvent
+_ZN7QWidget12setAttributeEN2Qt15WidgetAttributeEb
+_ZN7QWidget13dragMoveEventEP14QDragMoveEvent
+_ZN7QWidget13enabledChangeEb
+_ZN7QWidget13focusOutEventEP11QFocusEvent
+_ZN7QWidget13keyPressEventEP9QKeyEvent
+_ZN7QWidget13paletteChangeERK8QPalette
+_ZN7QWidget14dragEnterEventEP15QDragEnterEvent
+_ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent
+_ZN7QWidget14languageChangeEv
+_ZN7QWidget14mouseMoveEventEP11QMouseEvent
+_ZN7QWidget14setFocusPolicyEN2Qt11FocusPolicyE
+_ZN7QWidget15keyReleaseEventEP9QKeyEvent
+_ZN7QWidget15mousePressEventEP11QMouseEvent
+_ZN7QWidget16contextMenuEventEP17QContextMenuEvent
+_ZN7QWidget16inputMethodEventEP17QInputMethodEvent
+_ZN7QWidget16staticMetaObjectE
+_ZN7QWidget17mouseReleaseEventEP11QMouseEvent
+_ZN7QWidget18focusNextPrevChildEb
+_ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent
+_ZN7QWidget22windowActivationChangeEb
+_ZN7QWidget4findEP6HWND__
+_ZN7QWidget5eventEP6QEvent
+_ZN7QWidget8setFocusEN2Qt11FocusReasonE
+_ZN7QWidget8winEventEP6tagMSGPl
+_ZN7QWidget9dropEventEP10QDropEvent
+_ZN7QWidget9hideEventEP10QHideEvent
+_ZN7QWidget9moveEventEP10QMoveEvent
+_ZN7QWidget9showEventEP10QShowEvent
+_ZN7QWidgetC2EPS_6QFlagsIN2Qt10WindowTypeEE
+_ZN7QWidgetD2Ev
+$_ZNK12QApplication10metaObjectEv
+-_ZNK7QWidget11focusPolicyEv
+-_ZNK7QWidget11focusWidgetEv
+-_ZNK7QWidget11paintEngineEv
+-_ZNK7QWidget14heightForWidthEi
+-_ZNK7QWidget15minimumSizeHintEv
+-_ZNK7QWidget16inputMethodQueryEN2Qt16InputMethodQueryE
+-_ZNK7QWidget16nextInFocusChainEv
+-_ZNK7QWidget20testAttribute_helperEN2Qt15WidgetAttributeE
+._ZNK7QWidget5getDCEv
+._ZNK7QWidget5winIdEv
+	._ZNK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE
+._ZNK7QWidget6windowEv
+._ZNK7QWidget7devTypeEv
+._ZNK7QWidget8sizeHintEv
+._ZNK7QWidget9releaseDCEP5HDC__
+"4_ZThn8_NK7QWidget11paintEngineEv
+#4_ZThn8_NK7QWidget5getDCEv
+$4_ZThn8_NK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE
+%4_ZThn8_NK7QWidget7devTypeEv
+&4_ZThn8_NK7QWidget9releaseDCEP5HDC__
+CloseHandle
+CreateSemaphoreA
+GetCurrentThreadId
+GetLastError
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+InterlockedDecrement
+InterlockedIncrement
+LoadLibraryA
+ReleaseSemaphore
+SetLastError
+Sleep
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+WaitForSingleObject
+__mingwthr_key_dtor
+_write
+__dllonexit
+_errno
+_iob
+abort
+fflush
+fputc
+fputs
+free
+fwrite
+malloc
+realloc
+sprintf
+strcmp
+strcpy
+BringWindowToTop
+CallNextHookEx
+CallWindowProcW
+DefWindowProcW
+DestroyWindow
+EnableWindow
+GetFocus
+GetKeyState
+GetMenu
+GetParent
+GetWindowLongW
+GetWindowRect
+IsWindow
+SendMessageA
+SendMessageW
+SetActiveWindow
+SetFocus
+SetParent
+SetWindowLongA
+SetWindowLongW
+SetWindowPos
+SetWindowsHookExW
+UnhookWindowsHookEx
+_Unwind_DeleteException
+_Unwind_GetDataRelBase
+_Unwind_GetIPInfo
+_Unwind_GetLanguageSpecificData
+_Unwind_GetRegionStart
+_Unwind_GetTextRelBase
+_Unwind_RaiseException
+_Unwind_Resume
+_Unwind_Resume_or_Rethrow
+_Unwind_SetGR
+_Unwind_SetIP
+__deregister_frame_info
+__emutls_get_address
+__register_frame_info
+QtCore4.dll
+QtGui4.dll
+KERNEL32.dll
+mingwm10.dll
+msvcrt.dll
+msvcrt.dll
+USER32.dll
+libgcc_s_dw2-1.dll
+010L0
+1 1B1P1y1
+2-292c2
+5/555
+8#878>8C8`8g8p8
+9 9V9\9c9
+>W>g>
+>P?W?
+0)0;0`0g0
+121[1
+2+2>2J2Z2
+3^3d3|3
+4$4)4<4I4a4
+4O5[5t5
+676a6l6q6
+7&7.767>7F7N7V7^7f7n7v7~7
+8&8.868>8F8N8V8^8f8n8v8~8
+9&9.969>9F9N9V9^9f9n9
+4n6s6
+7;7@7
+8M8R8
+454Y;v;
+252<2C2
+767T7^7h7r7
+;&=7=G>
+9'929J9P9b9j9r9z9
+>&>.>6>>>F>N>V>^>f>n>v>~>
+3?3W3o3
+4'4?4U4m4
+535K5S5q5
+696W6
+1c2x2
+3+3@3P3_3p3y3
+4+434;4
+4!5)515K5S5[5
+5*636<6f6n6v6
+618O8W8_8<9D9Z9m9x9
+:@:H:b:k:v:
+;I;];z;
+<+<	?
+@:D:
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8l8p8t8x8|8
+8 :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;
+< <$<(<@=H=T=\=h=p=|=
+>$>0>8>D>L>X>`>
+? ?(?4?<?H?P?\?d?p?x?
+D1L1`1h1p1|1
+1@3D3P3T3`3d3p3t3
+4 4$40444@4D4P4T4`4d4p4t4
+5 5$50545@5D5P5T5`5d5p5t5
+6 6$60646@6D6P6T6`6d6p6t6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+=$=(=,=0=D=H=L=P=T=X=\=`=d=h=
+>$>(>,>0>D>H>L>P>T>X>\>r>
+?%?D?h?
+0$0-0L0U0t0}0
+1(1L1t1
+20292T2]2|2
+343=3X3a3
+404X4a4
+505Y5l5
+646T6x6
+7 7)7@7`7
+8<8E8\8e8
+9:9P9t9}9
+90:P:p:
+;,;H;h;

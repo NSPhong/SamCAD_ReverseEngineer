@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dHOhcGQoD4=",
+  "success": true,
+  "projectFilePath": "D:\\Work App\\PLC low level\\SamCAD\\SamCAD\\SamCAD\\source\\SamSoarII.Utility\\SamSoarII.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NSPhong\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\NSPhong\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

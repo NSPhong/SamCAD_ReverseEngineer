@@ -1,0 +1,130 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>SamSoarII.Polyline</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net40</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="resources\icon\rotate.png" />
+    <None Remove="resources\icon\matrix.png" />
+    <None Remove="resources\icon\ebevel.png" />
+    <None Remove="resources\table\delete_dis.png" />
+    <None Remove="resources\icon\fill.png" />
+    <None Remove="resources\icon\line.png" />
+    <None Remove="resources\icon\bspline.png" />
+    <None Remove="control\polylinedatagridmultiplymodifywindow.baml" />
+    <None Remove="resources\icon\b2spline.png" />
+    <None Remove="resources\icon\reverse.png" />
+    <None Remove="control\polylineselecttreebox.baml" />
+    <None Remove="export\polylineexportcolumnaddwindow.baml" />
+    <None Remove="resources\icon\merge.png" />
+    <None Remove="resources\table\mulmod_en.png" />
+    <None Remove="resources\table\add_en.png" />
+    <None Remove="export\polylineexportwindow.baml" />
+    <None Remove="resources\icon\split.png" />
+    <None Remove="control\pointwidget.baml" />
+    <None Remove="control\mirrorlabel.baml" />
+    <None Remove="resources\table\import_en.png" />
+    <None Remove="resources\table\add_dis.png" />
+    <None Remove="resources\icon\ellipse.png" />
+    <None Remove="resources\icon\freerect.png" />
+    <None Remove="resources\icon\circle.png" />
+    <None Remove="resources\icon\zonetile.png" />
+    <None Remove="control\polylinedatagridwindow.baml" />
+    <None Remove="control\treeview\polylineselecttreeview_entity.baml" />
+    <None Remove="resources\icon\move.png" />
+    <None Remove="resources\icon\lock.png" />
+    <None Remove="resources\table\export_en.png" />
+    <None Remove="resources\icon\rect.png" />
+    <None Remove="control\treeview\polylineselecttreeview_group.baml" />
+    <None Remove="control\pointpaintlabel.baml" />
+    <None Remove="control\radiuspaintlabel.baml" />
+    <None Remove="resources\icon\virt.png" />
+    <None Remove="resources\icon\eround.png" />
+    <None Remove="control\treeview\polylineselecttreegroupimage.baml" />
+    <None Remove="resources\icon\esharp.png" />
+    <None Remove="resources\icon\arch.png" />
+    <None Remove="polylineeditor.baml" />
+    <None Remove="resources\icon\expand.png" />
+    <None Remove="control\polylineargumentwindow.baml" />
+    <None Remove="resources\icon\mirror.png" />
+    <None Remove="resources\table\delete_en.png" />
+    <None Remove="control\polylineuserdatasetting.baml" />
+    <None Remove="resources\icon\ebreak.png" />
+    <None Remove="resources\icon\spline.png" />
+    <None Remove="resources\icon\scale.png" />
+    <None Remove="control\polylineselectwindow.baml" />
+    <None Remove="resources\icon\ellipsearch.png" />
+    <None Remove="resources\table\user_en.png" />
+    <None Remove="control\treeview\polylineselecttreearrow.baml" />
+    <Resource Include="resources\icon\rotate.png" />
+    <Resource Include="resources\icon\matrix.png" />
+    <Resource Include="resources\icon\ebevel.png" />
+    <Resource Include="resources\table\delete_dis.png" />
+    <Resource Include="resources\icon\fill.png" />
+    <Resource Include="resources\icon\line.png" />
+    <Resource Include="resources\icon\bspline.png" />
+    <Resource Include="control\polylinedatagridmultiplymodifywindow.baml" LogicalName="control/polylinedatagridmultiplymodifywindow.baml" />
+    <Resource Include="resources\icon\b2spline.png" />
+    <Resource Include="resources\icon\reverse.png" />
+    <Resource Include="control\polylineselecttreebox.baml" LogicalName="control/polylineselecttreebox.baml" />
+    <Resource Include="export\polylineexportcolumnaddwindow.baml" LogicalName="export/polylineexportcolumnaddwindow.baml" />
+    <Resource Include="resources\icon\merge.png" />
+    <Resource Include="resources\table\mulmod_en.png" />
+    <Resource Include="resources\table\add_en.png" />
+    <Resource Include="export\polylineexportwindow.baml" LogicalName="export/polylineexportwindow.baml" />
+    <Resource Include="resources\icon\split.png" />
+    <Resource Include="control\pointwidget.baml" LogicalName="control/pointwidget.baml" />
+    <Resource Include="control\mirrorlabel.baml" LogicalName="control/mirrorlabel.baml" />
+    <Resource Include="resources\table\import_en.png" />
+    <Resource Include="resources\table\add_dis.png" />
+    <Resource Include="resources\icon\ellipse.png" />
+    <Resource Include="resources\icon\freerect.png" />
+    <Resource Include="resources\icon\circle.png" />
+    <Resource Include="resources\icon\zonetile.png" />
+    <Resource Include="control\polylinedatagridwindow.baml" LogicalName="control/polylinedatagridwindow.baml" />
+    <Resource Include="control\treeview\polylineselecttreeview_entity.baml" LogicalName="control/treeview/polylineselecttreeview_entity.baml" />
+    <Resource Include="resources\icon\move.png" />
+    <Resource Include="resources\icon\lock.png" />
+    <Resource Include="resources\table\export_en.png" />
+    <Resource Include="resources\icon\rect.png" />
+    <Resource Include="control\treeview\polylineselecttreeview_group.baml" LogicalName="control/treeview/polylineselecttreeview_group.baml" />
+    <Resource Include="control\pointpaintlabel.baml" LogicalName="control/pointpaintlabel.baml" />
+    <Resource Include="control\radiuspaintlabel.baml" LogicalName="control/radiuspaintlabel.baml" />
+    <Resource Include="resources\icon\virt.png" />
+    <Resource Include="resources\icon\eround.png" />
+    <Resource Include="control\treeview\polylineselecttreegroupimage.baml" LogicalName="control/treeview/polylineselecttreegroupimage.baml" />
+    <Resource Include="resources\icon\esharp.png" />
+    <Resource Include="resources\icon\arch.png" />
+    <Resource Include="polylineeditor.baml" LogicalName="polylineeditor.baml" />
+    <Resource Include="resources\icon\expand.png" />
+    <Resource Include="control\polylineargumentwindow.baml" LogicalName="control/polylineargumentwindow.baml" />
+    <Resource Include="resources\icon\mirror.png" />
+    <Resource Include="resources\table\delete_en.png" />
+    <Resource Include="control\polylineuserdatasetting.baml" LogicalName="control/polylineuserdatasetting.baml" />
+    <Resource Include="resources\icon\ebreak.png" />
+    <Resource Include="resources\icon\spline.png" />
+    <Resource Include="resources\icon\scale.png" />
+    <Resource Include="control\polylineselectwindow.baml" LogicalName="control/polylineselectwindow.baml" />
+    <Resource Include="resources\icon\ellipsearch.png" />
+    <Resource Include="resources\table\user_en.png" />
+    <Resource Include="control\treeview\polylineselecttreearrow.baml" LogicalName="control/treeview/polylineselecttreearrow.baml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="WindowsBase" />
+    <ProjectReference Include="..\SamSoarII.Dock\SamSoarII.Dock.csproj" />
+    <Reference Include="PresentationCore" />
+    <ProjectReference Include="..\SamSoarII.Utility\SamSoarII.Utility.csproj" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+using System.Collections.Generic;
+
+namespace SamSoarII.Core.Helpers;
+
+public class CSVValueLineF : ICSVValueLineF, ICSVValueLine
+{
+	public ICSVValueInfo ValueInfo { get; private set; }
+
+	public IList<uint> Times { get; private set; }
+
+	public IList<float> Values { get; private set; }
+
+	public CSVValueLineF(ICSVValueInfo _valueinfo, IList<uint> _times, IList<float> _values)
+	{
+		ValueInfo = _valueinfo;
+		Times = _times;
+		Values = _values;
+	}
+}

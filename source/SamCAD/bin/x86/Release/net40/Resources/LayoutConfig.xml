@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LayoutSetting>
+  <Window DockID="1" Title="" Top="4328" Left="0" Width="2829" Height="6964" Target="-1" Relation="LeftAutoHide" LastSide="LeftSide" />
+  <Window DockID="2" Title="" Top="68240000000000008" Left="74640000000000016" Width="1504" Height="2.193E+46" Target="-1" Relation="BottomAutoHide" LastSide="BottomSide" />
+  <Window DockID="3" Title="" Top="1152" Left="888" Width="3208" Height="732" Target="-1" Relation="Float" LastSide="RightSide" />
+  <Window DockID="4" Title="" Top="212" Left="46320000000000008" Width="308" Height="4488" Target="-1" Relation="Float" LastSide="RightSide" />
+  <Window DockID="5" Title="" Top="320" Left="7976" Width="6832" Height="4.264E+46" Target="-1" Relation="Float" LastSide="RightSide" />
+  <Window DockID="6" Title="" Top="1184" Left="70480000000000008" Width="4896" Height="5352" Target="-1" Relation="Float" LastSide="RightSide" />
+  <Window DockID="7" Title="" Top="4.304E+46" Left="13928000000000002" Width="39600000000000008" Height="6964" Target="-1" Relation="RightAutoHide" LastSide="RightSide" />
+  <Window DockID="8" Title="" Top="73840000000000016" Left="8752" Width="1504" Height="16759999999999996" Target="-1" Relation="BottomAutoHide" LastSide="BottomSide" />
+  <Window DockID="9" Title="" Top="67040000000000008" Left="7.728E+46" Width="1504" Height="25959999999999996" Target="8" Relation="Right" LastSide="BottomSide" />
+  <Window DockID="10" Title="" Top="3696" Left="1200" Width="80" Height="6964" Target="-1" Relation="RightAutoHide" LastSide="RightSide" />
+  <Window DockID="11" Title="" Top="76240000000000016" Left="7.288E+46" Width="1504" Height="3422" Target="-1" Relation="BottomSide" LastSide="BottomSide" />
+  <Window DockID="12" Title="" Top="432" Left="4576" Width="12919" Height="6744" Target="-1" Relation="DockAsDocument" LastSide="RightSide" />
+  <Window DockID="13" Title="List of graphic elements" Top="4088" Left="0" Width="242" Height="1048" Target="-1" Relation="LeftSide" LastSide="LeftSide" />
+  <Window DockID="14" Title="Graphic element attribute" Top="0" Left="0" Width="282" Height="1048" Target="-1" Relation="RightSide" LastSide="RightSide" />
+  <Window DockID="15" Title="" Top="0" Left="0" Width="320" Height="800" Target="1" Relation="Inside" LastSide="LeftSide" />
+  <Window DockID="16" Title="" Top="4.264E+46" Left="12688000000000002" Width="36799999999999992" Height="6704" Target="-1" Relation="RightAutoHide" LastSide="RightSide" />
+  <Window DockID="17" Title="" Top="7696" Left="72240000000000016" Width="1504" Height="25049999999999988" Target="-1" Relation="BottomSide" LastSide="BottomSide" />
+</LayoutSetting>

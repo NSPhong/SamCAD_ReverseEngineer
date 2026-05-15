@@ -1,0 +1,839 @@
+﻿!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@/4
+0@.bss
+.edata
+0@.idata
+.CRT
+.tls
+.reloc
+[^_]
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+,[^_]
+t$\t
+l[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+,$xT
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+r/9D$
+[^_]
+UWVS
+ [^_]
+D$D1
+ [^_]
+|$D1
+ [^_]
+rj;D$
+|$D	
+ [^_]
+UWVS
+D$P9
+D$x	
+\$tf
+D$d	
+L$ 1
+D$d	
+L$$1
+D$Nf
+[^_]
+D$d+t$P
+D$>f%
+T$|+l$
+p)\$
+)D$ 
+D$p	D$
+`)t$
+	D$ 
+;D$$u
+l$P1
+|$\	
+D$d)
+T$|1
+D$p	D$
+D$>f%
+T$|1
+D$p	D$
+D$x	
+D$  
+`)t$ 
+	D$$
+|$p1
+D$d+t$
+D$>f%
+D$T1
+|$P1
+l$T	
+D$$	
+P)T$
+D$,	
+D$$+L$P
+D$ 	
+T$ 	
+P)T$
+D$$t7
+;T$ u
+T$`9T$P
+D$>f%
+\$h	
+D$(	
+D$$	
+T$`9T$P
+L$X;L$hvP
+D$T;D$d
+D$T;D$d
+L$X;L$h
+L$X;L$hwB
+D$T;D$dvP
+D$T;D$d
+L$X;L$h
+T$P;T$`
+T$P;T$`f
+UWVS
+T$Xf
+D$ 1
+t$(tB
+t$`)
+[^_]
+D$81
+T$l9
+|$Pf
+D$ ;D$P
+L$4 f%
++L$ 
+|$P;L$
+T$\;T$
+9|$$w
+9|$$
+9\$ 
+;L$(
+L$<%
+|$pf
+D$Nf%
+L$4(
+|$`f
+9\$X
+t$T;t$d
+|$P;|$`
+\$h9
+t$T9
+|$P;|$`
++l$<
+T$p1
+D$pt.
+L$4 f
+L$4 
+D$4 u
+D$|t(
+L$4 f%
+D$81
+D$$;D$T
+9D$X
+9|$\
+;t$,
+;\$`
+D$|1
+p)l$
+L$81
+T$81
+9L$ 
+\$xf
+UWVS
+<[^_]
+UWVS
+L$$1
+\$,9
+[^_]
+[^_]
+L[^_]
+[^_]
+9D$(w'u
+9D$$w
+9D$ w
+T$(	
+UWVS
+D$hf
+L$,	
+L[^_]
+T$,	
+l$,	
+[^_]
+[^_]
+D$,9D$ 
+D$(9D$
+D$$9D$
+D$ 	
+UWV1
+T$Xf
+D$(t`=
+D$$ 
+)\$$
+D$ 1
+)D$(
+|$0tB
+t$`)
+D$ 2D$
+D$$	
+[^_]
+D$,1
+T$01
+|$01
+T$<1
+l$81
+t$01
+T$l9
+\$Pf
+L$ttF
+D$p	
+	D$p
+L$4%
+\$pf
+D$Nf%
+9\$P
+t$h9
+L$du
+|$T9
++l$4
+T$p1
+D$pt.
+D$|t(
+9L$T
+9t$X
+D$|1
+p)l$
+\$P;\$`
+t$xf
+UWVS
+t$ +l$
+T$8f
+|$`f
+[^_]
+L$4	
+|$<1
+UWVS
+D$P9
+D$$9D$
+D$x	
+\$tf
+L$ 1
+|$l	
+L$ 1
+|$l	
++D$ 
+D$Nf
+[^_]
++D$ 
+D$`+D$P
+D$>f%
+D$p+l$
+p)\$
+)D$ 
+D$p	D$
+`)T$
+t$(f
+;D$ u
+l$P1
+|$\	
+\$ )
+T$|1
+D$p	D$
+D$>f%
+T$|1
+D$p	D$
+D$t	
+D$  
+`)T$ 
+l$,)
+|$p1
+D$ +D$
+D$>f%
+D$T1
+D$\1
++D$ 
+D$`+D$P
+D$$	
+D$ f
+D$ t
+P)T$
+D$ uY
+D$,	
+D$$	
+T$ 	
+P)T$
+D$,t7
+;\$(u
+D$xu
+D$>f%
+D$ t
+D$$	
+|$h9
+|$h9
+T$d9
+T$d9
+D$P;D$`
+D$P;D$`f
+UWVS
+L$Tf
+([^_]
+([^_]
+UWVS
+<[^_]
+|$,~
+<[^_]
+0[^_
+|$,~
+UWVS
+t$"f
+@[^_]
+l$$)
+UWVS
+T$,f
+<[^_]
+l$ )
+UWVS
+L[^_]
+l$<~
+L[^_]
+0)|$
+UWVS
+L[^_]
+T$<~
+D$41
+D$41
+UWVS
+sP)\$
+l$$)
+t$"f
+@[^_]
+UWVS
+l$ )
+T$,f
+<[^_]
+D$pf
+t$@~Q
+L$>f
+\[^_]
+t$Hf
+L$>f
+L$>f
+\$>f
+l$@)
+D$p)t$
+D$pf
+l$<1
+\$>f
+\[^_]
+l$@)
+D$p)t$
+t$Df
+L$>f
+L$>f
+l$>f
+D$Pf
+l$$f
+l$,f
+T$.f
+<[^_]
+\$,	
+l$.f
+T$|f
+D$.f%
+\$.f
+\[^_]
+D$L	
+D$L	
+@)|$
+UWV1
+D$|f
+\[^_]
+t$.f
+D$L	
+T$.f
+UWV1
+T$`1
+T$df
+\$>f
+T$l	
+\$ltW
+D$Hf
+|[^_]
+L$h	
+D$>f%
+tef=
+tZf=
+D$X	
+7[^_
+[^_]
+T$81
+<Rt8<PtT<Sf
+L[^_]
+<0u<
+DT$$
+[^_]
+[^_]
+|$$1
+t$$1
+0;D$
+[^_]
+@c@t
+[^_]
+[^_]
+D$,t
+[^_]
+[^_]
+[^_]
+Gc@u#
+ [^_
+ [^_
+ [^_
+WVSRP
+WVSRP
+WVSRP
+WVSRP
+[^_]
+[^_]
+7[^_
+;\$D|@
+9D$D~U
+9|$D~
+,[^_]
+,[^_]
+[^_]
+[^_]
+~	zt
+9<Lu
+<Rt(<Pu
+p< t2v
+ [^_
+UWVS
+<[^_]
+[^_]
+<[^_]
+T$,t
+T$,)
+[^_]
+[^_]
+UWVS
+,[^_]
+L[^_]
+D$89D$
+L$ 1
+D$49D$
+D$<t
+|$$;x
+;D$ 
+L[^_]
+D$8;D$
+L$ 1
+D$4;D$
+9D$$
+D$ f
+92tU
+UWVS
+[^_]
+[^_]
+p< tBv <@t,<Pt
+[^_]
+[^_]
+L[^_]
+[^_]
+T$t1
+9\$8
+t$=1
+\$=1
+\$=1
+D$(9
+D$ 9
+;\$8
+WVS1
+UWVS
+[^_]
+D$$t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+8MZt
+UWV1
+nMZt
+[^_]
+[^_]
+nMZt
+nMZt
+nMZS
+B' t
+nMZt
+nMZt
+[^_]
+UWVS1
+[^_]
+Genu
+Autht
+libgcc_s_dw2-1.dll
+__register_frame_info
+libgcj-13.dll
+_Jv_RegisterClasses
+__deregister_frame_info
+nMingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+nGCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf, Built by MinGW-W64 project) 4.8.2
+GCC: (i686-posix-dwarf-rev3, Built by MinGW-W64 project) 4.8.2
+libgcc_s_dw2-1.dll
+_Unwind_Backtrace
+_Unwind_DeleteException
+_Unwind_FindEnclosingFunction
+_Unwind_Find_FDE
+_Unwind_ForcedUnwind
+_Unwind_GetCFA
+_Unwind_GetDataRelBase
+_Unwind_GetGR
+_Unwind_GetIP
+_Unwind_GetIPInfo
+_Unwind_GetLanguageSpecificData
+_Unwind_GetRegionStart
+_Unwind_GetTextRelBase
+_Unwind_RaiseException
+_Unwind_Resume
+_Unwind_Resume_or_Rethrow
+_Unwind_SetGR
+_Unwind_SetIP
+__absvdi2
+__absvsi2
+__addtf3
+__addvdi3
+__addvsi3
+__ashldi3
+__ashrdi3
+__bswapdi2
+__bswapsi2
+__clear_cache
+__clrsbdi2
+__clrsbsi2
+__clzdi2
+__clzsi2
+__cmpdi2
+__ctzdi2
+__ctzsi2
+__deregister_frame
+__deregister_frame_info
+__deregister_frame_info_bases
+__divdc3
+__divdi3
+__divsc3
+__divtc3
+__divtf3
+__divxc3
+__emutls_get_address
+__emutls_register_common
+__enable_execute_stack
+__eqtf2
+__extenddftf2
+__extendsftf2
+__extendxftf2
+__ffsdi2
+__ffssi2
+__fixdfdi
+__fixsfdi
+__fixtfdi
+__fixtfsi
+__fixunsdfdi
+__fixunsdfsi
+__fixunssfdi
+__fixunssfsi
+__fixunstfdi
+__fixunstfsi
+__fixunsxfdi
+__fixunsxfsi
+__fixxfdi
+__floatdidf
+__floatdisf
+__floatditf
+__floatdixf
+__floatsitf
+__floatundidf
+__floatundisf
+__floatunditf
+__floatundixf
+__floatunsitf
+__gcc_personality_v0
+__getf2
+__gttf2
+__letf2
+__lshrdi3
+__lttf2
+__moddi3
+__muldc3
+__muldi3
+__mulsc3
+__multc3
+__multf3
+__mulvdi3
+__mulvsi3
+__mulxc3
+__negdi2
+__negtf2
+__negvdi2
+__negvsi2
+__netf2
+__paritydi2
+__paritysi2
+__popcountdi2
+__popcountsi2
+__powidf2
+__powisf2
+__powitf2
+__powixf2
+__register_frame
+__register_frame_info
+__register_frame_info_bases
+__register_frame_info_table
+__register_frame_info_table_bases
+__register_frame_table
+__subtf3
+__subvdi3
+__subvsi3
+__trunctfdf2
+__trunctfsf2
+__trunctfxf2
+__ucmpdi2
+__udivdi3
+__udivmoddi4
+__umoddi3
+__unordtf2
+DeleteCriticalSection
+EnterCriticalSection
+FreeLibrary
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+QueryPerformanceCounter
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__dllonexit
+_amsg_exit
+_initterm
+_iob
+_lock
+_onexit
+_unlock
+abort
+calloc
+free
+fwrite
+malloc
+memcpy
+memset
+realloc
+strlen
+strncmp
+vfprintf
+pthread_getspecific
+pthread_key_create
+pthread_mutex_lock
+pthread_mutex_unlock
+pthread_once
+pthread_setspecific
+KERNEL32.dll
+msvcrt.dll
+libwinpthread-1.dll
+0"0Q0d0i0
+1+1O1q1
+282?2J2s2z2
+2)4j4q4
+5)525@5G5T5
+728E8M8f8v8
+_2C3
+4-68:
+7Z8A9
+>B>l>
+C0{0
+-;V;#<?=
+3>6.7
+< >W>
+7$7+727
+;8=E=J=w=
+3&3z3
+9#9/9F9
+9%:Z:c:
+;+;<;w;
+;6<C<b<h<}<
+=P=a=
+>U>m>
+?8?J?^?v?
+010>0D0q0
+101J1T1u1
+1 262J2j2
+3$3.373<3K3P3X3a3k3q3z3
+4+4`4n4s4y4
+5)5/5<5f5v5
+7)7=7B7f7s7
+858D8X8]8
+9R9Z9b9j9r9z9
+<.<q<{<
+=#=>=T=X=
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+.eh_frame

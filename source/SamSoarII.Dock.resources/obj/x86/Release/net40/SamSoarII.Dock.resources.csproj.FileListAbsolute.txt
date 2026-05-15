@@ -1,0 +1,7 @@
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\bin\x86\Release\net40\SamSoarII.Dock.resources.dll
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\bin\x86\Release\net40\SamSoarII.Dock.resources.pdb
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\obj\x86\Release\net40\SamSoarII.Dock.resources.csproj.AssemblyReference.cache
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\obj\x86\Release\net40\SamSoarII.Dock.resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\obj\x86\Release\net40\SamSoarII.Dock.resources.csproj.CoreCompileInputs.cache
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\obj\x86\Release\net40\SamSoarII.Dock.resources.dll
+D:\Work App\PLC low level\SamCAD\SamCAD\SamCAD\source\SamSoarII.Dock.resources\obj\x86\Release\net40\SamSoarII.Dock.resources.pdb

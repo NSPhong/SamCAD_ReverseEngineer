@@ -1,0 +1,128 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>SamSoarII.Dock</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWPF>True</UseWPF>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net40</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="resources\images\dockpaneempty.png" />
+    <None Remove="resources\images\centertop.png" />
+    <None Remove="resources\images\centerleft.png" />
+    <None Remove="treelist\treelist.baml" />
+    <None Remove="resources\images\pindocmenu.png" />
+    <None Remove="resources\images\pinmaximize_focused.png" />
+    <None Remove="resources\images\icon_float.png" />
+    <None Remove="resources\images\titletexture.png" />
+    <None Remove="resources\images\titletexture.bmp" />
+    <None Remove="float\floatwindow.baml" />
+    <None Remove="resources\images\innerdockpaneinside.png" />
+    <None Remove="resources\images\innerdockpaneright.png" />
+    <None Remove="resources\images\dockpanecenter.png" />
+    <None Remove="resources\images\pindock_focused.png" />
+    <None Remove="resources\images\pinrestore_focused.png" />
+    <None Remove="resources\images\titletexture_focused.bmp" />
+    <None Remove="resources\images\titletexture_focused.png" />
+    <None Remove="resources\images\icon_pin.png" />
+    <None Remove="resources\images\centerbottom.png" />
+    <None Remove="resources\images\locked.png" />
+    <None Remove="resources\images\pinautohide_focused.png" />
+    <None Remove="resources\images\docktop.png" />
+    <None Remove="view\docktabsuit.baml" />
+    <None Remove="resources\images\pinmaximize.png" />
+    <None Remove="resources\images\pinmenu.png" />
+    <None Remove="resources\images\dockbottom.png" />
+    <None Remove="resources\images\pinmenu_focused.png" />
+    <None Remove="resources\images\pinclose_focused.png" />
+    <None Remove="resources\images\dockright.png" />
+    <None Remove="resources\images\dockpane.png" />
+    <None Remove="resources\images\htabgroup.png" />
+    <None Remove="resources\images\innerdockpanetop.png" />
+    <None Remove="resources\images\centerright.png" />
+    <None Remove="resources\images\pinrestore.png" />
+    <None Remove="resources\images\pinclose.png" />
+    <None Remove="resources\images\innerdockdocpanebottom.png" />
+    <None Remove="resources\images\innerdockdocpaneleft.png" />
+    <None Remove="resources\images\pindocmenu_focused.png" />
+    <None Remove="resources\images\icon_horizongroup.png" />
+    <None Remove="resources\images\innerdockpanebottom.png" />
+    <None Remove="resources\images\vtabgroup.png" />
+    <None Remove="resources\images\innerdockdocpanetop.png" />
+    <None Remove="resources\images\icon_verticalgroup.png" />
+    <None Remove="view\dockdropsuit.baml" />
+    <None Remove="dockmanager.baml" />
+    <None Remove="resources\images\pinautohide.png" />
+    <None Remove="resources\images\pindock.png" />
+    <None Remove="resources\images\dockleft.png" />
+    <None Remove="view\tab\docktabextendmenu.baml" />
+    <None Remove="resources\images\innerdockdocpaneright.png" />
+    <None Remove="resources\images\innerdockpaneleft.png" />
+    <Resource Include="resources\images\dockpaneempty.png" />
+    <Resource Include="resources\images\centertop.png" />
+    <Resource Include="resources\images\centerleft.png" />
+    <Resource Include="treelist\treelist.baml" LogicalName="treelist/treelist.baml" />
+    <Resource Include="resources\images\pindocmenu.png" />
+    <Resource Include="resources\images\pinmaximize_focused.png" />
+    <Resource Include="resources\images\icon_float.png" />
+    <Resource Include="resources\images\titletexture.png" />
+    <Resource Include="resources\images\titletexture.bmp" />
+    <Resource Include="float\floatwindow.baml" LogicalName="float/floatwindow.baml" />
+    <Resource Include="resources\images\innerdockpaneinside.png" />
+    <Resource Include="resources\images\innerdockpaneright.png" />
+    <Resource Include="resources\images\dockpanecenter.png" />
+    <Resource Include="resources\images\pindock_focused.png" />
+    <Resource Include="resources\images\pinrestore_focused.png" />
+    <Resource Include="resources\images\titletexture_focused.bmp" />
+    <Resource Include="resources\images\titletexture_focused.png" />
+    <Resource Include="resources\images\icon_pin.png" />
+    <Resource Include="resources\images\centerbottom.png" />
+    <Resource Include="resources\images\locked.png" />
+    <Resource Include="resources\images\pinautohide_focused.png" />
+    <Resource Include="resources\images\docktop.png" />
+    <Resource Include="view\docktabsuit.baml" LogicalName="view/docktabsuit.baml" />
+    <Resource Include="resources\images\pinmaximize.png" />
+    <Resource Include="resources\images\pinmenu.png" />
+    <Resource Include="resources\images\dockbottom.png" />
+    <Resource Include="resources\images\pinmenu_focused.png" />
+    <Resource Include="resources\images\pinclose_focused.png" />
+    <Resource Include="resources\images\dockright.png" />
+    <Resource Include="resources\images\dockpane.png" />
+    <Resource Include="resources\images\htabgroup.png" />
+    <Resource Include="resources\images\innerdockpanetop.png" />
+    <Resource Include="resources\images\centerright.png" />
+    <Resource Include="resources\images\pinrestore.png" />
+    <Resource Include="resources\images\pinclose.png" />
+    <Resource Include="resources\images\innerdockdocpanebottom.png" />
+    <Resource Include="resources\images\innerdockdocpaneleft.png" />
+    <Resource Include="resources\images\pindocmenu_focused.png" />
+    <Resource Include="resources\images\icon_horizongroup.png" />
+    <Resource Include="resources\images\innerdockpanebottom.png" />
+    <Resource Include="resources\images\vtabgroup.png" />
+    <Resource Include="resources\images\innerdockdocpanetop.png" />
+    <Resource Include="resources\images\icon_verticalgroup.png" />
+    <Resource Include="view\dockdropsuit.baml" LogicalName="view/dockdropsuit.baml" />
+    <Resource Include="dockmanager.baml" LogicalName="dockmanager.baml" />
+    <Resource Include="resources\images\pinautohide.png" />
+    <Resource Include="resources\images\pindock.png" />
+    <Resource Include="resources\images\dockleft.png" />
+    <Resource Include="view\tab\docktabextendmenu.baml" LogicalName="view/tab/docktabextendmenu.baml" />
+    <Resource Include="resources\images\innerdockdocpaneright.png" />
+    <Resource Include="resources\images\innerdockpaneleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

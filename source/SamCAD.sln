@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamCAD", "SamCAD\SamCAD.csproj", "{8505F1FF-5A5E-4C0B-BFE8-07A8A156E370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamSoarII.Dock", "SamSoarII.Dock\SamSoarII.Dock.csproj", "{AD44AB25-5AF9-472A-B972-4C7852260759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamSoarII.Polyline", "SamSoarII.Polyline\SamSoarII.Polyline.csproj", "{4D0654BE-CC5B-4877-839C-88D970069F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamSoarII.Utility", "SamSoarII.Utility\SamSoarII.Utility.csproj", "{9B02AB8C-BF9D-4A66-A8F4-28F6E88991F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamSoarII.Dock.resources", "SamSoarII.Dock.resources\SamSoarII.Dock.resources.csproj", "{8DF081EE-78EA-4F86-846E-9F1C798D776A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamSoarII.Utility.resources", "SamSoarII.Utility.resources\SamSoarII.Utility.resources.csproj", "{F4831E3E-3590-46BD-AF97-56D63D9B88C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8505F1FF-5A5E-4C0B-BFE8-07A8A156E370}.Debug|x86.ActiveCfg = Debug|x86
+		{8505F1FF-5A5E-4C0B-BFE8-07A8A156E370}.Debug|x86.Build.0 = Debug|x86
+		{8505F1FF-5A5E-4C0B-BFE8-07A8A156E370}.Release|x86.ActiveCfg = Release|x86
+		{8505F1FF-5A5E-4C0B-BFE8-07A8A156E370}.Release|x86.Build.0 = Release|x86
+		{AD44AB25-5AF9-472A-B972-4C7852260759}.Debug|x86.ActiveCfg = Debug|x86
+		{AD44AB25-5AF9-472A-B972-4C7852260759}.Debug|x86.Build.0 = Debug|x86
+		{AD44AB25-5AF9-472A-B972-4C7852260759}.Release|x86.ActiveCfg = Release|x86
+		{AD44AB25-5AF9-472A-B972-4C7852260759}.Release|x86.Build.0 = Release|x86
+		{4D0654BE-CC5B-4877-839C-88D970069F9A}.Debug|x86.ActiveCfg = Debug|x86
+		{4D0654BE-CC5B-4877-839C-88D970069F9A}.Debug|x86.Build.0 = Debug|x86
+		{4D0654BE-CC5B-4877-839C-88D970069F9A}.Release|x86.ActiveCfg = Release|x86
+		{4D0654BE-CC5B-4877-839C-88D970069F9A}.Release|x86.Build.0 = Release|x86
+		{9B02AB8C-BF9D-4A66-A8F4-28F6E88991F1}.Debug|x86.ActiveCfg = Debug|x86
+		{9B02AB8C-BF9D-4A66-A8F4-28F6E88991F1}.Debug|x86.Build.0 = Debug|x86
+		{9B02AB8C-BF9D-4A66-A8F4-28F6E88991F1}.Release|x86.ActiveCfg = Release|x86
+		{9B02AB8C-BF9D-4A66-A8F4-28F6E88991F1}.Release|x86.Build.0 = Release|x86
+		{8DF081EE-78EA-4F86-846E-9F1C798D776A}.Debug|x86.ActiveCfg = Debug|x86
+		{8DF081EE-78EA-4F86-846E-9F1C798D776A}.Debug|x86.Build.0 = Debug|x86
+		{8DF081EE-78EA-4F86-846E-9F1C798D776A}.Release|x86.ActiveCfg = Release|x86
+		{8DF081EE-78EA-4F86-846E-9F1C798D776A}.Release|x86.Build.0 = Release|x86
+		{F4831E3E-3590-46BD-AF97-56D63D9B88C8}.Debug|x86.ActiveCfg = Debug|x86
+		{F4831E3E-3590-46BD-AF97-56D63D9B88C8}.Debug|x86.Build.0 = Debug|x86
+		{F4831E3E-3590-46BD-AF97-56D63D9B88C8}.Release|x86.ActiveCfg = Release|x86
+		{F4831E3E-3590-46BD-AF97-56D63D9B88C8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DACD6D5-2EB5-42D8-8D20-2166839F7108}
+	EndGlobalSection
+EndGlobal
+

@@ -1,0 +1,135 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>SamCAD</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>True</UseWPF>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net40</TargetFramework>
+    <StartupObject>SamCAD.App</StartupObject>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="resources\icon\undo_dis.png" />
+    <None Remove="control\inteselectwindow.baml" />
+    <None Remove="control\grouprotatewindow.baml" />
+    <None Remove="resources\icon\redo_en.png" />
+    <None Remove="resources\image\ruler\grid.png" />
+    <None Remove="resources\icon\delete_en.png" />
+    <None Remove="resources\icon\saveas_en.png" />
+    <None Remove="control\createrectwindow.baml" />
+    <None Remove="resources\icon\new_en.png" />
+    <None Remove="control\groupexpandwindow.baml" />
+    <None Remove="control\dialogwidget.baml" />
+    <None Remove="control\groupreorderwindow.baml" />
+    <None Remove="resources\icon\save_dis.png" />
+    <None Remove="resources\icon\open_en.png" />
+    <None Remove="resources\icon\copy_en.png" />
+    <None Remove="resources\image\ruler\hruler.png" />
+    <None Remove="control\loadmodewindow.baml" />
+    <None Remove="control\underbar.baml" />
+    <None Remove="resources\icon\undo_en.png" />
+    <None Remove="resources\icon\trash_en.png" />
+    <None Remove="control\aboutwindow.baml" />
+    <None Remove="control\createfreerectwindow.baml" />
+    <None Remove="resources\image\move.png" />
+    <None Remove="resources\icon\cut_en.png" />
+    <None Remove="control\imageresizewindow.baml" />
+    <None Remove="resources\icon\newimage_en.png" />
+    <None Remove="control\groupscalewindow.baml" />
+    <None Remove="control\groupmatrixwindow.baml" />
+    <None Remove="control\createellipsewindow.baml" />
+    <None Remove="resources\icon\printpreview_en.png" />
+    <None Remove="control\waitingwindow.baml" />
+    <None Remove="resources\icon\resize_en.png" />
+    <None Remove="resources\icon\paste_dis.png" />
+    <None Remove="mainwindow.baml" />
+    <None Remove="resources\icon\print_en.png" />
+    <None Remove="resources\icon\cut_dis.png" />
+    <None Remove="resources\icon\save_en.png" />
+    <None Remove="control\groupreorderlistview.baml" />
+    <None Remove="resources\icon\copy_dis.png" />
+    <None Remove="resources\icon\new_dis.png" />
+    <None Remove="resources\image\ruler\vruler.png" />
+    <None Remove="resources\icon\redo_dis.png" />
+    <None Remove="resources\image\auto.png" />
+    <None Remove="control\dialogwidgetwithleak.baml" />
+    <None Remove="control\createprojectwindow.baml" />
+    <None Remove="control\groupfillwindow.baml" />
+    <None Remove="resources\icon\import_en.png" />
+    <None Remove="resources\icon\open_dis.png" />
+    <None Remove="resources\icon\paste_en.png" />
+    <None Remove="samcad.ico" />
+    <None Remove="resources\image\samcad.ico" />
+    <None Remove="control\groupmovewindow.baml" />
+    <Resource Include="resources\icon\undo_dis.png" />
+    <Resource Include="control\inteselectwindow.baml" LogicalName="control/inteselectwindow.baml" />
+    <Resource Include="control\grouprotatewindow.baml" LogicalName="control/grouprotatewindow.baml" />
+    <Resource Include="resources\icon\redo_en.png" />
+    <Resource Include="resources\image\ruler\grid.png" />
+    <Resource Include="resources\icon\delete_en.png" />
+    <Resource Include="resources\icon\saveas_en.png" />
+    <Resource Include="control\createrectwindow.baml" LogicalName="control/createrectwindow.baml" />
+    <Resource Include="resources\icon\new_en.png" />
+    <Resource Include="control\groupexpandwindow.baml" LogicalName="control/groupexpandwindow.baml" />
+    <Resource Include="control\dialogwidget.baml" LogicalName="control/dialogwidget.baml" />
+    <Resource Include="control\groupreorderwindow.baml" LogicalName="control/groupreorderwindow.baml" />
+    <Resource Include="resources\icon\save_dis.png" />
+    <Resource Include="resources\icon\open_en.png" />
+    <Resource Include="resources\icon\copy_en.png" />
+    <Resource Include="resources\image\ruler\hruler.png" />
+    <Resource Include="control\loadmodewindow.baml" LogicalName="control/loadmodewindow.baml" />
+    <Resource Include="control\underbar.baml" LogicalName="control/underbar.baml" />
+    <Resource Include="resources\icon\undo_en.png" />
+    <Resource Include="resources\icon\trash_en.png" />
+    <Resource Include="control\aboutwindow.baml" LogicalName="control/aboutwindow.baml" />
+    <Resource Include="control\createfreerectwindow.baml" LogicalName="control/createfreerectwindow.baml" />
+    <Resource Include="resources\image\move.png" />
+    <Resource Include="resources\icon\cut_en.png" />
+    <Resource Include="control\imageresizewindow.baml" LogicalName="control/imageresizewindow.baml" />
+    <Resource Include="resources\icon\newimage_en.png" />
+    <Resource Include="control\groupscalewindow.baml" LogicalName="control/groupscalewindow.baml" />
+    <Resource Include="control\groupmatrixwindow.baml" LogicalName="control/groupmatrixwindow.baml" />
+    <Resource Include="control\createellipsewindow.baml" LogicalName="control/createellipsewindow.baml" />
+    <Resource Include="resources\icon\printpreview_en.png" />
+    <Resource Include="control\waitingwindow.baml" LogicalName="control/waitingwindow.baml" />
+    <Resource Include="resources\icon\resize_en.png" />
+    <Resource Include="resources\icon\paste_dis.png" />
+    <Resource Include="mainwindow.baml" LogicalName="mainwindow.baml" />
+    <Resource Include="resources\icon\print_en.png" />
+    <Resource Include="resources\icon\cut_dis.png" />
+    <Resource Include="resources\icon\save_en.png" />
+    <Resource Include="control\groupreorderlistview.baml" LogicalName="control/groupreorderlistview.baml" />
+    <Resource Include="resources\icon\copy_dis.png" />
+    <Resource Include="resources\icon\new_dis.png" />
+    <Resource Include="resources\image\ruler\vruler.png" />
+    <Resource Include="resources\icon\redo_dis.png" />
+    <Resource Include="resources\image\auto.png" />
+    <Resource Include="control\dialogwidgetwithleak.baml" LogicalName="control/dialogwidgetwithleak.baml" />
+    <Resource Include="control\createprojectwindow.baml" LogicalName="control/createprojectwindow.baml" />
+    <Resource Include="control\groupfillwindow.baml" LogicalName="control/groupfillwindow.baml" />
+    <Resource Include="resources\icon\import_en.png" />
+    <Resource Include="resources\icon\open_dis.png" />
+    <Resource Include="resources\icon\paste_en.png" />
+    <Resource Include="samcad.ico" />
+    <Resource Include="resources\image\samcad.ico" />
+    <Resource Include="control\groupmovewindow.baml" LogicalName="control/groupmovewindow.baml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SamSoarII.Utility\SamSoarII.Utility.csproj" />
+    <Reference Include="WindowsBase" />
+    <ProjectReference Include="..\SamSoarII.Polyline\SamSoarII.Polyline.csproj" />
+    <Reference Include="PresentationCore" />
+    <ProjectReference Include="..\SamSoarII.Dock\SamSoarII.Dock.csproj" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>
