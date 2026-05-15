@@ -10,6 +10,65 @@ SamCAD là phần mềm CAD chuyên dụng cho lập trình PLC/HMI, cho phép t
 
 ---
 
+### Tech Stack
+
+```mermaid
+graph TD
+    subgraph OS ["Nền tảng"]
+        WIN[Windows x86\nWin32 API]
+    end
+
+    subgraph RUNTIME ["Runtime"]
+        NET[.NET Framework 4.0\nCLR / BCL]
+        CS[C# — LangVersion 14.0]
+    end
+
+    subgraph UI_FW ["UI Framework"]
+        WPF[WPF — Windows Presentation Foundation\nPresentationFramework · PresentationCore · WindowsBase]
+        BAML[BAML — Binary Application Markup Language\nPre-compiled XAML resources]
+        WINF[Windows Forms\nHybrid interop dialogs]
+    end
+
+    subgraph APP ["Application — 4 tầng"]
+        SC[SamCAD\nPresentation Layer\nWPF MainWindow · RoutedCommands · Dialogs]
+        SP[SamSoarII.Polyline\nBusiness Logic Layer\nPolylineEditor · PolylineProject · PolylineImage]
+        SD[SamSoarII.Dock\nUI Framework Layer\nDockManager · FloatWindow · DockTabSuit]
+        SU[SamSoarII.Utility\nInfrastructure Layer\nFileFormat · DXF Parser · DES Encryption]
+    end
+
+    subgraph DATA ["Dữ liệu & Giao thức"]
+        SCA[.sca / .ssd\nBinary DES-encrypted\nFile format độc quyền]
+        DXF[.dxf\nAutoCAD DXF\nImport / Export]
+        CSV[.csv / .xlsx\nExcel export\nSK Device nạp chương trình]
+        SK[SK Device Protocol\nSerial / TCP]
+    end
+
+    subgraph BUILD ["Build & Tooling"]
+        MSB[MSBuild\nMicrosoft.NET.Sdk.WindowsDesktop]
+        ILSPY[ILSpy / ilspycmd\nDecompile source]
+    end
+
+    WIN --> NET
+    NET --> CS
+    CS --> WPF
+    WPF --> BAML
+    WPF --> WINF
+    WPF --> SC
+    SC --> SP
+    SC --> SD
+    SP --> SD
+    SP --> SU
+    SD --> SU
+    SU --> SCA
+    SU --> DXF
+    SP --> CSV
+    SP --> SK
+    MSB --> SC
+    ILSPY -.->|decompile| SC
+```
+
+---
+
 ### Cấu trúc Solution (6 projects)
 
 | Project | Vai trò |
